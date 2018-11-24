@@ -1,0 +1,3 @@
+DSIGHEDSOBEWEIWONDERWHATSHEISL
+
+I wrote a java class, VigenereCipher that decrypts the cipher text by using the shift from the position in the key that corresponds to the letter in the cipher text. I did attempt to try and find the key without knowing the length after creating code to solve exercises 3 and 4 but the text was too small to be able to find a working key.

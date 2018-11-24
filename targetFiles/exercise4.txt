@@ -1,0 +1,3 @@
+IMLETMEPUTONELITTLEKISSONTHOSE
+
+For this cipher I used the same java class, VigenereCipher as the last 2 exercises, but I had to find the key for this one. I found the length by shifting the cipher text 1 to the right several times and finding the letters that matched between the cipher text that was unshifted and the current line of cipher that was shifted. From this I then located very high numbers and counted the distance between them, this would be the length of the key. After finding the key length I then applied the same methods I did to find the values of each letter in the key and then decrypted the message.

@@ -1,0 +1,3 @@
+EDINTHEGARDENWASTHISWHISTLINGB
+
+For this cipher I used the same class as the last exercise, TranspositionCipher I added the ability to enter the keys name. From this I did the same process as in exercise 5 and split the cipher text into smaller strings, the amount of strings are the same as the key length. After this I did the same thing and moved around the columns based on the combination, however afterwards, unlike the last one, I then attempted to match words against the decrypted string, the more matches in the string, the better, I would then store the string and the number of matches of the string with the highest matches.

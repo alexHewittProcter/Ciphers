@@ -1,0 +1,3 @@
+TOANGELCLARESRETICENCETOHERABS
+
+For the Caesar Cipher I wrote a java class called CaesarCipher that finds the key by going through the encrypted text and finding the letter with the highest frequency and shifted that to the plain text letter E as that has the highest frequency in plain text language.
